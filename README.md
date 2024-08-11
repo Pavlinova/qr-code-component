@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Pavlinova/Frontend-Mentor/tree/064bd74715e0c6967986fa080dcdad597368d398/qr-code-component-main)
-- Live Site URL: [Vercel](https://qr-code-component-main-eight.vercel.app/)
+- Solution URL: [GitHub](https://github.com/Pavlinova/qr-code-component.git)
+- Live Site URL: [GitHub Pages](https://pavlinova.github.io/qr-code-component/)
 
 ## Author
 
